@@ -37,7 +37,6 @@ Para la implementación de esta práctica se ha requerido del siguiente material
 | DTH11 | 1PC  |
 | Sensor de Ultrasonido | 1PC |
 | Pantalla LCD | 1PC |
-| Protoboard | 1PC |
 | Joystick | 1PC |
 | Led | 2PC |
 | Botón | 1PC |
@@ -45,6 +44,8 @@ Para la implementación de esta práctica se ha requerido del siguiente material
 
 
 ## Esquema del circuito:
+
+Un pequeño esquema de como ensamblar los componentes para este proyecto.
 
 ![empotrados](https://github.com/acruzr2021/Maquina-Expendedora/assets/92941137/30b4c13d-0b6b-48eb-a249-2debfc443dde)
 
@@ -180,8 +181,34 @@ Esto nos permite planificar y manejar fácilmente tareas periódicas, definiendo
 
 Como medida de seguridad, incluimos en nuestra implementación un watchdog que reiniciará la placa si en una iteración tarda más de 8 segundos en llegar a la linea de reset.
 
+```cpp
+void setup() {
+
+  # código omitido
+  // inicia watchdog
+  wdt_disable();
+  wdt_enable(WDTO_8S);
+
+  # código omitido
+
+}
+
+void loop(){
+
+  if(!check_admin){
+    servicio();
+  } else{
+    admin();
+  }
+
+  wdt_reset();
+  delay(100);
+}
+```
 
 # Resultado
+
+Para finalizar, dejo un video con el resultado final de la implementación:
 
 
 
