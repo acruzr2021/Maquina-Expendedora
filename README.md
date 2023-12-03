@@ -211,7 +211,7 @@ void loop(){
 
 Para finalizar, dejo un video con el resultado final de la implementación:
 
-[![Video]([https://github.com/acruzr2021/Maquina-Expendedora/blob/main/WhatsApp%20Image%202023-12-03%20at%2020.19.29.jpeg](https://github.com/acruzr2021/Maquina-Expendedora/blob/main/Screenshot%20from%202023-12-03%2020-34-27.png)https://github.com/acruzr2021/Maquina-Expendedora/blob/main/Screenshot%20from%202023-12-03%2020-34-27.png)](https://youtu.be/gJ3RzG8vNtc?si=yvfdwHYo1AgBy72y)
+[![Video](https://github.com/acruzr2021/Maquina-Expendedora/blob/main/Screenshot%20from%202023-12-03%2020-34-27.png)](https://youtu.be/gJ3RzG8vNtc?si=yvfdwHYo1AgBy72y)
 
 
 
