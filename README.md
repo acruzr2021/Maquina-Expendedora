@@ -184,12 +184,13 @@ Como medida de seguridad, incluimos en nuestra implementación un watchdog que r
 ```cpp
 void setup() {
 
-  # código omitido
+  // código omitido
+
   // inicia watchdog
   wdt_disable();
   wdt_enable(WDTO_8S);
 
-  # código omitido
+  // código omitido
 
 }
 
