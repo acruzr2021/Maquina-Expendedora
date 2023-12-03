@@ -211,7 +211,7 @@ void loop(){
 
 Para finalizar, dejo un video con el resultado final de la implementación:
 
-[![](https://markdown-videos.deta.dev/youtube/gJ3RzG8vNtc)](https://youtu.be/gJ3RzG8vNtc?si=yvfdwHYo1AgBy72y)
+[![Video](https://markdown-videos.deta.dev/youtube/gJ3RzG8vNtc)](https://youtu.be/gJ3RzG8vNtc?si=yvfdwHYo1AgBy72y)
 
 
 
