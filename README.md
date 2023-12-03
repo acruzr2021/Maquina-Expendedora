@@ -8,8 +8,8 @@
 * [][]
 
 [ind]: https://github.com/acruzr2021/Maquina-Expendedora/blob/main/README.md#indice
-[int]:
-[material]:
+[int]: https://github.com/acruzr2021/Maquina-Expendedora/blob/main/README.md#introducci%C3%B3n
+[material]: https://github.com/acruzr2021/Maquina-Expendedora/blob/main/README.md#material
 [esq]: https://github.com/acruzr2021/Maquina-Expendedora/blob/main/README.md#esquema-del-circuito
 
 # Introducción
