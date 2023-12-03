@@ -6,7 +6,7 @@
 * [][]
 
 [ind]:
-[esq]:
+[esq]: https://github.com/acruzr2021/Maquina-Expendedora/blob/main/README.md#esquema-del-circuito
 
 Este es mi blog de la práctica 3 de la asignatura Sistemas Empotrados y de Tiempo Real, la cual trata de implementar una máquina espendedora usando el kit de Arduino proporcionado.
 
