@@ -211,7 +211,7 @@ void loop(){
 
 Para finalizar, dejo un video con el resultado final de la implementación:
 
-[![Video](https://markdown-videos.deta.dev/youtube/gJ3RzG8vNtc)](https://youtu.be/gJ3RzG8vNtc?si=yvfdwHYo1AgBy72y)
+[![Video](https://github.com/acruzr2021/Maquina-Expendedora/blob/main/WhatsApp%20Image%202023-12-03%20at%2020.19.29.jpeg)](https://youtu.be/gJ3RzG8vNtc?si=yvfdwHYo1AgBy72y)
 
 
 
