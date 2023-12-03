@@ -15,11 +15,11 @@
 [int]: https://github.com/acruzr2021/Maquina-Expendedora/blob/main/README.md#introducci%C3%B3n
 [material]: https://github.com/acruzr2021/Maquina-Expendedora/blob/main/README.md#material
 [esq]: https://github.com/acruzr2021/Maquina-Expendedora/blob/main/README.md#esquema-del-circuito
-[imp]:
-[int]:
-[tc]:
-[wd]:
-[res]:
+[imp]: https://github.com/acruzr2021/Maquina-Expendedora#implementaci%C3%B3n
+[int]: https://github.com/acruzr2021/Maquina-Expendedora#interrupci%C3%B3n
+[tc]: https://github.com/acruzr2021/Maquina-Expendedora#threads-y-controlador
+[wd]: https://github.com/acruzr2021/Maquina-Expendedora#watchdog
+[res]: https://github.com/acruzr2021/Maquina-Expendedora#resultado
 
 
 
